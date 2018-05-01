@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\MarketWatch.g.cs
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref

@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\MarketWatch.g.cs
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\MarketWatch.baml
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\MarketWatchApp.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\MarketWatchApp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\lenovo\source\repos\WpfApp1\WpfApp1\obj\Debug\MarketWatchApp.csprojResolveAssemblyReference.cache

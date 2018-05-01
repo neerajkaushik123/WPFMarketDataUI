@@ -1,0 +1,22 @@
+﻿<Window x:Class="MarketWatchApp.MarketWatch"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:System="clr-namespace:System;assembly=mscorlib" 
+        xmlns:l="clr-namespace:MarketWatchApp" Title="MainWindow" Height="350" Width="525">
+
+    <Grid>
+
+        <StackPanel HorizontalAlignment="Left" Height="700" Margin="5,5,0,0" VerticalAlignment="Top">
+            <Button Name="btnStart" Width="100" HorizontalAlignment="Left" Content="Start" Click="Btn1_Click"></Button>
+            <DataGrid AlternatingRowBackground="#FFC4B0B0" AutoGenerateColumns="False" Name="grdEmployee" Loaded="grdEmployee_Loaded" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Symbol}" Width="100" Header="Symbol"/>
+                    <DataGridTextColumn Binding="{Binding LastPrice}" Width="100" Header="LastPrice"/>
+                    <DataGridTextColumn Binding="{Binding OpenPrice}" Width="100" Header="OpenPrice"/>
+                    <DataGridTextColumn Binding="{Binding ClosePrice}" Width="100" Header="ClosePrice"/>
+                    <DataGridTextColumn Binding="{Binding PriceChange}" Width="100" Header="Price Change"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+    </Grid>
+</Window>
